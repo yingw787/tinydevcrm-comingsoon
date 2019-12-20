@@ -4,7 +4,7 @@ date: 2019-12-20T13:15:15-05:00
 draft: false
 ---
 
-I'm working on a tiny CRM-like tool for software engineers.
+I'm working on a tiny CRM for software engineers.
 
 __________
 
