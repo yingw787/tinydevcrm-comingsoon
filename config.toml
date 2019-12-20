@@ -1,3 +1,32 @@
-baseURL = "http://example.org/"
+# Required
+baseURL = "https://tinydevcrm.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TinyDevCRM"
+theme = "carrd50"
+
+# Optional
+googleAnalytics = ""
+
+[params]
+    # Required #
+    author = "Ying Wang"
+    email = "me@yingw787.com"
+    description = "Port of Pro Template #50 by https://carrd.co"
+    copyrightYear = "2019"
+    favicon = "img/favicon.png"
+
+    # Optional #
+    font = "Space Mono" # Available fonts include: ["Space Mono"].
+    titleImage = "img/image01.png"
+    titleTextColor = "#eee8d5"
+    bodyTextColor = "#eee8d5"
+    backgroundColor = "#073642" # Solarized Dark Base03
+
+    formInputColor = "#666666"
+    formBackgroundColor = "#eee8d5"
+    formSelectedColor = "#1ABC9C"
+
+    buttonColor = "#eee8d5"
+    buttonBackgroundColor = "#3BACFF"
+
+    footerTextColor = "#eee8d5"
