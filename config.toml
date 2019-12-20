@@ -12,15 +12,15 @@ googleAnalytics = ""
     author = "Ying Wang"
     email = "me@yingw787.com"
     description = "Port of Pro Template #50 by https://carrd.co"
-    copyrightYear = "2019"
+    copyrightYear = "2020"
     favicon = "img/favicon.png"
 
     # Optional #
     font = "Space Mono" # Available fonts include: ["Space Mono"].
     titleImage = "img/image01.png"
     titleTextColor = "#eee8d5"
-    bodyTextColor = "#eee8d5"
-    backgroundColor = "#073642" # Solarized Dark Base03
+    bodyTextColor = "#eee8d5" # Solarized Base2
+    backgroundColor = "#586e75" # Solarized Base01
 
     formInputColor = "#666666"
     formBackgroundColor = "#eee8d5"
