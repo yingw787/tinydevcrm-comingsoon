@@ -5,7 +5,7 @@ title = "TinyDevCRM"
 theme = "carrd50"
 
 # Optional
-googleAnalytics = ""
+googleAnalytics = "UA-128189162-2"
 
 [params]
     # Required #
