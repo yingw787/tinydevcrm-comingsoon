@@ -42,3 +42,9 @@ hugo server -p $PORT_NUMBER -t carrd50
 ```bash
 git submodule foreach git pull origin master
 ```
+
+This command was tested using the following `git` build:
+
+```bash
+git version 2.14.3 (Apple Git-98)
+```
