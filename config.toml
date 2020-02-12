@@ -14,20 +14,28 @@ name = "TinyDevCRM"
 url = "/"
 weight = 1
 [[menu.nav]]
-name = "Dashboard"
-url = "https://dashboard.tinydevcrm.com"
+# name = "Dashboard"
+# url = "https://dashboard.tinydevcrm.com"
+name = "Dashboard (Coming Soon)"
+url = "/"
 weight = 2
 [[menu.nav]]
-name = "API"
-url = "https://api.tinydevcrm.com"
+# name = "API"
+# url = "https://api.tinydevcrm.com"
+name = "API (Coming Soon)"
+url = "/"
 weight = 3
 [[menu.nav]]
-name = "Docs"
-url = "https://docs.tinydevcrm.com"
+# name = "Docs"
+# url = "https://docs.tinydevcrm.com"
+name = "Docs (Coming Soon)"
+url = "/"
 weight = 4
 [[menu.nav]]
-name = "Blog"
-url = "https://blog.tinydevcrm.com"
+# name = "Blog"
+# url = "https://blog.tinydevcrm.com"
+name = "Blog (Coming Soon)"
+url = "/"
 weight = 5
 [[menu.nav]]
 name = "Code"
