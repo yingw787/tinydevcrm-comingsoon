@@ -1,3 +1,3 @@
-[submodule "themes/carrd50"]
-	path = themes/carrd50
-	url = git@github.com:yingw787/hugo-theme-carrd50.git
+[submodule "themes/tinydevcrm"]
+	path = themes/tinydevcrm
+	url = git@github.com:yingw787/hugo-theme-tinydevcrm.git

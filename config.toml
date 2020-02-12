@@ -2,7 +2,7 @@
 baseURL = "https://tinydevcrm.com"
 languageCode = "en-us"
 title = "TinyDevCRM"
-theme = "carrd50"
+theme = "tinydevcrm"
 
 # Optional
 googleAnalytics = "UA-128189162-2"
