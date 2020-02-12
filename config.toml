@@ -19,8 +19,8 @@ googleAnalytics = "UA-128189162-2"
 
     # Optional #
     font = "Space Mono" # Available fonts include: ["Space Mono"].
-    titleTextColor = "#eee8d5" # Solarized Base00
-    bodyTextColor = "#eee8d5" # Solarized Base00
+    titleTextColor = "#839496" # Solarized Base0
+    bodyTextColor = "#839496" # Solarized Base0
     backgroundColor = "#002b36" # Solarized Base03
 
     formInputColor = "#eee8d5"
