@@ -7,6 +7,33 @@ theme = "carrd50"
 # Optional
 googleAnalytics = "UA-128189162-2"
 
+[menu]
+# Navbar items
+[[menu.nav]]
+name = "TinyDevCRM"
+url = "/"
+weight = 1
+[[menu.nav]]
+name = "Dashboard"
+url = "https://dashboard.tinydevcrm.com"
+weight = 2
+[[menu.nav]]
+name = "API"
+url = "https://api.tinydevcrm.com"
+weight = 3
+[[menu.nav]]
+name = "Docs"
+url = "https://docs.tinydevcrm.com"
+weight = 4
+[[menu.nav]]
+name = "Blog"
+url = "https://blog.tinydevcrm.com"
+weight = 5
+[[menu.nav]]
+name = "Code"
+url = "https://github.com/yingw787"
+
+
 [params]
     # Required #
     author = "Ying Wang"
