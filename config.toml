@@ -32,10 +32,8 @@ name = "Docs (Coming Soon)"
 url = "/"
 weight = 4
 [[menu.nav]]
-# name = "Blog"
-# url = "https://blog.tinydevcrm.com"
-name = "Blog (Coming Soon)"
-url = "/"
+name = "Blog"
+url = "https://bytes.yingw787.com"
 weight = 5
 [[menu.nav]]
 name = "Code"
