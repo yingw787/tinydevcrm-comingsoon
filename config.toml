@@ -17,9 +17,16 @@ googleAnalytics = "UA-128189162-2"
     mailchimpURL = "https://yingw787.us16.list-manage.com/subscribe/post?u=5280d2de8e3d00fba39c1f4b3&amp;id=2a7decb380"
     mailchimpBotDecoyLink = "b_5280d2de8e3d00fba39c1f4b3_2a7decb380"
 
+    # Navbar #
+    firstElementText = "TinyDevCRM"
+    firstElementHref = "/"
+    secondElementText = "Email Me"
+    secondElementHref = "mailto:me@yingw787.com"
+    thirdElementText = "Dashboard"
+    thirdElementHref = "https://dashboard.tinydevcrm.com"
+
     # Optional #
     font = "Space Mono" # Available fonts include: ["Space Mono"].
-    titleTextColor = "#839496" # Solarized Base0
     bodyTextColor = "#839496" # Solarized Base0
     backgroundColor = "#002b36" # Solarized Base03
 
