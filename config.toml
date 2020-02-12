@@ -20,7 +20,7 @@ googleAnalytics = "UA-128189162-2"
     # Navbar #
     firstElementText = "TinyDevCRM"
     firstElementHref = "/"
-    secondElementText = "Email Me"
+    secondElementText = "Email"
     secondElementHref = "mailto:me@yingw787.com"
     thirdElementText = "Dashboard"
     thirdElementHref = "https://dashboard.tinydevcrm.com"
