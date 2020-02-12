@@ -4,35 +4,34 @@ date: 2019-12-20T13:15:15-05:00
 draft: false
 ---
 
-I'm working on a tiny CRM for software engineers.
+TinyDevCRM helps software engineers automate tasks on a unified pool of data.
 
 __________
 
-Requirements Set:
+I got this idea from a discussion I had with a former director of engineering at
+a company widely renowned for its engineering prowess. Sometimes, I ask software
+engineers I encounter two questions:
 
-**CSV imports**: Full IETF RFC-4180 spec compliance.
+**What's the hardest software bug you have encountered in production?**
 
-**Materialized Views**: Refreshed on the daily.
+**What's your favorite internal tool?**
 
-**Events**: Support for email / SMTP.
+In this instance, the answer to the second question is a framework backing their
+internal data lake architecture. It would suck in data, create lightweight
+"views" on top of that data, and then trigger events based on those views.
+Everybody would have the same source of truth. They could all ask for different
+things without the machine running a long time, since the machine remembers what
+the "ask" is. The machine creates the "ask" and gives it to anybody who listens.
+
+I couldn't get the idea out of my head. PostgreSQL could give me most of these
+benefits out of the box, which means it shouldn't take *that* long. Common
+protocols mean clearly defined boundaries to software development, which means I
+can focus on making it last. Then I realized I could use this tool to build my
+own habit tracker to remind me of my personal routine, and a tele-Rolodex to
+remind me to say happy birthday to my friends, and a tool to tell me to rotate
+my AWS security keys, and so on.
+
+TinyDevCRM is my experiment towards executing on this idea. I'd love for you to
+join me in my journey.
 
 __________
-
-Here's what I'm prioritizing:
-
-**Doneness**: There will be 0.x releases. There will be 1.x releases. There will
-probably not be 2.x releases. At some point this product will be "complete"
-barring security patches.
-
-**Data Portability**: When "complete", this tool will likely be open-sourced and
-one-click deployable to multiple cloud environments.
-
-**Composability**: I'm planning on a protocols-not-platforms approach for
-third-party integrations and a platforms-not-products approach for the service
-itself.
-
-__________
-
-I'm mostly building this for myself to scratch my own itch, but it would be
-terrific to have other people try this out. If you want to be part of the early
-adopters audience, sign up below.
