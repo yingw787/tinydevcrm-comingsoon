@@ -1,5 +1,5 @@
 ---
-title: "TinyDevCRM - Coming Soon"
+title: "TinyDevCRM | Generate events using data"
 date: 2019-12-20T13:15:15-05:00
 draft: false
 ---
