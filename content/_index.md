@@ -9,6 +9,9 @@ TinyDevCRM helps software engineers automate tasks on a unified pool of data.
 I think of TinyDevCRM less as a traditional customer relationship management
 tool, and more as a generic data and integrations management platform.
 
+If TinyDevCRM had a mission, it might be *helping you find happiness in your
+data*.
+
 __________
 
 TinyDevCRM composes five workflows:
@@ -99,8 +102,8 @@ Yes. Seriously.
 
 **I want to learn more.**
 
-Email me at me@yingw787.com. I'd be very happy to hear from you and how you use
-TinyDevCRM.
+Email me at me@yingw787.com. I'd be very happy to hear from you and learn how
+you use or might use TinyDevCRM.
 
 You can also subscribe to TinyDevCRM's mailing list below.
 
