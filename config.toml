@@ -33,7 +33,7 @@ url = "/"
 weight = 4
 [[menu.nav]]
 name = "Blog"
-url = "https://bytes.yingw787.com"
+url = "https://bytes.yingw787.com/categories/tinydevcrm"
 weight = 5
 [[menu.nav]]
 name = "Code"
